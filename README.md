@@ -17,7 +17,7 @@ I’m a passionate Web Developer and IT Specialist with a strong background in f
 
 ## 📁 Projects
 
-### 🔹 [Personal Portfolio]
+### 🔹 [Personal Portfolio] https://github.com/Kodelavinaykumar/Personal-Portfolio
 > A responsive web portfolio showcasing my work and skills.
 
 ### 🔹 [Event Management System]
@@ -31,7 +31,7 @@ I’m a passionate Web Developer and IT Specialist with a strong background in f
 ## 📫 Contact Me
 
 - 📧 Email: yourname@email.com  
-- 🌐 Website: [vinayportfolio.com](https://vinayportfolio.com)  
+- 🌐 Website:(https://github.com/Kodelavinaykumar/Personal-Portfolio) 
 - 🔗 LinkedIn:https://www.linkedin.com/in/kodela-vinay-kumar-4171b5267/
 
 ---
