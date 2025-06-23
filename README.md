@@ -30,7 +30,7 @@ I’m a passionate Web Developer and IT Specialist with a strong background in f
 
 ## 📫 Contact Me
 
-- 📧 Email: yourname@email.com  
+- 📧 Email: vinaykumarkodela@gmail.com  
 - 🌐 Website:(https://github.com/Kodelavinaykumar/Personal-Portfolio) 
 - 🔗 LinkedIn:https://www.linkedin.com/in/kodela-vinay-kumar-4171b5267/
 
